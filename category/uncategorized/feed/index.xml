@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; BM College</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology College of London</description>
+	<lastBuildDate>Mon, 03 Dec 2018 23:04:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>What do I need to bring to have my card produced?</title>
+		<link>/what-do-i-need-to-bring-to-have-my-card-produced/</link>
+		<comments>/what-do-i-need-to-bring-to-have-my-card-produced/#respond</comments>
+		<pubDate>Sun, 21 Dec 2014 06:33:34 +0000</pubDate>
+		<dc:creator><![CDATA[PR]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://wsist.org/?p=8384</guid>
+		<description><![CDATA[To obtain your Campus ID card you must have: One piece of valid government produced photo identification (BYID card, current citizenship card, driver&#8217;s license or passport); and Proof of payment (tuition or deferment receipt). If you do not have government produced photo ID print a â€˜Student Identification Formâ€™ in advance and have it completed by [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>To obtain your Campus ID card you must have:</p>
+<ul>
+<li>One piece of valid government produced photo identification (BYID card, current citizenship card, driver&#8217;s license or passport); and</li>
+<li>Proof of payment (tuition or deferment receipt).</li>
+</ul>
+<p>If you do not have government produced photo ID print a â€˜Student Identification Formâ€<img src="https://s.w.org/images/core/emoji/11/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> in advance and have it completed by you and a guarantor prior to visiting the ID office.</p>
+]]></content:encoded>
+			<wfw:commentRss>/what-do-i-need-to-bring-to-have-my-card-produced/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

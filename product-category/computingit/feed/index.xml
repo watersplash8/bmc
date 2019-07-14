@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Computing &amp; IT &#8211; BM College</title>
+	<atom:link href="/product-category/computingit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology College of London</description>
+	<lastBuildDate>Mon, 03 Dec 2018 23:04:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Installing, Configuring and Managing VMware vSphere 6.0</title>
+		<link>/product/icm6/</link>
+		<comments>/product/icm6/#respond</comments>
+		<pubDate>Mon, 10 Aug 2015 11:38:52 +0000</pubDate>
+		<dc:creator><![CDATA[BM College]]></dc:creator>
+		
+		<guid isPermaLink="false">/product/icm6/</guid>
+		<description><![CDATA[This course is instructor-led, delivered online. The course is conducted entirely online, including labs, in an asynchronous manner and it is available to students 24/7. Students can study at their own pace provided they meet the minimum due dates set by the instructor. We don’t have set hours per day, but there is a set [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This course is instructor-led, delivered online.</p>
+<ul>
+<li>The course is conducted entirely online, including labs, in an asynchronous manner and it is available to students 24/7.</li>
+<li>Students can study at their own pace provided they meet the minimum due dates set by the instructor.</li>
+<li>We don’t have set hours per day, but there is a set maximum of up to 12 hours of training or lab exercises that students can do on a weekly basis as per VITA terms and conditions.</li>
+<li>The ICM courses are 5 weeks in length, approximately 40 hours of lectures and lab exercises.</li>
+</ul>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/product/icm6/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

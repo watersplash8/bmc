@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Book: Installing, Configuring and Managing VMware vSphere 5.5/6.0</title>
+	<atom:link href="/product/icm5560te/feed/" rel="self" type="application/rss+xml" />
+	<link>/product/icm5560te/</link>
+	<description>Technology College of London</description>
+	<lastBuildDate>Sun, 21 Jun 2015 04:49:08 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: Jamie N</title>
+		<link>/product/icm5560te/#comment-44</link>
+		<dc:creator><![CDATA[Jamie N]]></dc:creator>
+		<pubDate>Sun, 21 Jun 2015 04:49:08 +0000</pubDate>
+		<guid isPermaLink="false">/?post_type=product&#038;p=9882#comment-44</guid>
+		<description><![CDATA[The course goes into the details not just an overview, the instructors are easy going, great guys and were able to explain the technology whenever my brain evaporated into the clouds ;-)]]></description>
+		<content:encoded><![CDATA[<p>The course goes into the details not just an overview, the instructors are easy going, great guys and were able to explain the technology whenever my brain evaporated into the clouds 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Javier Alvarez</title>
+		<link>/product/icm5560te/#comment-43</link>
+		<dc:creator><![CDATA[Javier Alvarez]]></dc:creator>
+		<pubDate>Sun, 21 Jun 2015 04:43:11 +0000</pubDate>
+		<guid isPermaLink="false">/?post_type=product&#038;p=9882#comment-43</guid>
+		<description><![CDATA[Aprenda Instalar, Configurar e Gerenciar a plataforma VMware vSphere 6 que é a base utilizada na Cloud.]]></description>
+		<content:encoded><![CDATA[<p>Aprenda Instalar, Configurar e Gerenciar a plataforma VMware vSphere 6 que é a base utilizada na Cloud.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
